@@ -20,7 +20,7 @@ header div P{
     font-size: xx-small;
     font-family: Arial, Helvetica, sans-serif;
     display: block;
-    color: rgb(190, 185, 190);
+    color: rgb(180, 185, 190);
 }
 nav 
 {
@@ -47,7 +47,7 @@ header{
 .headerdiv {
     height: 10px;
    
-    background-color: rgb(214, 214, 214);
+    background-color: rgb(214, 224, 214);
 }
 main{
     position: relative;
